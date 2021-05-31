@@ -1,0 +1,6 @@
+﻿  BankAccount.cpp
+C:\Users\dell\source\repos\Bank\BankAccount.h(58,1): warning C4624: 'SavingBankAccount': destructor was implicitly defined as deleted
+C:\Users\dell\source\repos\Bank\BankAccount.h(58,1): error C2282: 'SavingBankAccount::~SavingBankAccount' cannot override 'BankAccount::~BankAccount'
+C:\Users\dell\source\repos\Bank\BankAccount.h(20,18): message : 'BankAccount::~BankAccount' is not deleted
+C:\Users\dell\source\repos\Bank\BankAccount.cpp(8,1): error C2011: 'BankAccount': 'class' type redefinition
+C:\Users\dell\source\repos\Bank\BankAccount.h(8): message : see declaration of 'BankAccount'
